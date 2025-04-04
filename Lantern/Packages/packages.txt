@@ -1,0 +1,5 @@
+lan_version
+lan_tools
+lan_help
+lan_info
+computerInfo
